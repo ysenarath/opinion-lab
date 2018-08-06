@@ -1,0 +1,22 @@
+{
+  "dataset": {
+    "name": "iest",
+    "include_test": true
+  },
+  "features": [
+    {
+      "name": "twitter_glove"
+    }
+  ],
+  "model": {
+    "name": "lstmcnn_clf",
+    "lstm_units": 250,
+    "filters": 350,
+    "kernel_size": [2, 3, 5],
+    "pooling": "max",
+    "dropout": 0.2,
+    "hidden_dims": [50],
+    "batch_size": 256,
+    "epochs": 5
+  }
+}

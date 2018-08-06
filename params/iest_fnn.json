@@ -1,0 +1,20 @@
+{
+  "dataset": {
+    "name": "iest",
+    "include_test": true
+  },
+  "features": [
+    {
+      "name": "iest_lstmcnn_1_2"
+    }, {
+      "name": "iest_lstmcnn_1_3"
+    }, {
+      "name": "iest_lstmcnn_1_4"
+    }
+  ],
+  "model": {
+    "name": "fnn_clf",
+    "hidden_dims": [[50, 0.5], [25, 0.5]],
+    "epochs": 5
+  }
+}
