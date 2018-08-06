@@ -23,5 +23,6 @@ Currenly following models have been created and tested:
       `python oplab evaluate -m {model_path} -e [evaluation_metrics]  -o [predictions_file]`
 
 ## Licensing
-*  [Apache License 2.0](https://github.com/ysenarath/opinion-lab/blob/master/LICENSE)
+* Code is under [Apache License 2.0](https://github.com/ysenarath/opinion-lab/blob/master/LICENSE) license.
+* Model (releases) are under [Creative Commons Attribution - Non Commercial 2.0 Generic](https://creativecommons.org/licenses/by-nc/2.0/uk/legalcode) license.
 
