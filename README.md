@@ -1,4 +1,4 @@
-# Opinion Lab
+# [Opinion Lab](https://ysenarath.github.io/opinion-lab/)
 
 The repository contains codebase for building state-of-the-art deep learning techniques for opinion mining.
 
