@@ -1,0 +1,19 @@
+{
+  "dataset": {
+    "name": "iest",
+    "include_test": true
+  },
+  "features": [
+    {
+      "name": "unigram"
+    }, {
+      "name": "bigram"
+    }
+  ],
+  "model": {
+    "name": "logit_clf",
+    "penalty": "l2",
+    "tol": 1e-4,
+    "C": 1.0
+  }
+}
