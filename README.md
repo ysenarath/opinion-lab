@@ -11,7 +11,7 @@ Currenly following models have been created and tested:
 2. Some python knowledge
 
 ## Setup the Lab
-1. Install [`textkit-learn`](https://github.com/ysenarath/textkit-learn)
+1. Install [`textkit-learn`](https://github.com/ysenarath/textkit-learn/releases/tag/v0.2)
 2. Configure path to resources in [`oplab/config.py`](https://github.com/ysenarath/opinion-lab/blob/master/oplab/config.py)
 3. Happy Experimenting!
 
